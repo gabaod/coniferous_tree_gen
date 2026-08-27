@@ -120,7 +120,7 @@ SPECIES_PROFILES = {
 
 CONFIG = {
     "seed": None,
-    "num_trees": 5,
+    "num_trees": 1,
     "species": "spruce_conical",     # key into SPECIES_PROFILES
     "card_collection": "BillboardCards",   # cards from step 2
     "output_dir": "//exported_trees/",
